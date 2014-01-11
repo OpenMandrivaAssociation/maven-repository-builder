@@ -1,10 +1,10 @@
-%_javapackages_macros
+%{?_javapackages_macros:%_javapackages_macros}
 %global pkg_version 1.0-alpha-2
 
 Name:           maven-repository-builder
 Version:        1.0
 # See http://fedoraproject.org/wiki/Packaging:NamingGuidelines#Package_Versioning
-Release:        0.5.alpha2.0%{?dist}
+Release:        0.5.alpha2.1%{?dist}
 # Maven-shared defines maven-repository-builder version as 1.0
 Epoch:          1
 Summary:        Maven repository builder
