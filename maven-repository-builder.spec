@@ -1,7 +1,7 @@
 %{?_javapackages_macros:%_javapackages_macros}
 Name:           maven-repository-builder
 Version:        1.0
-Release:        1.2
+Release:        1.3
 # Maven-shared defines maven-repository-builder version as 1.0
 Epoch:          1
 Summary:        Maven repository builder
