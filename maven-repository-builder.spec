@@ -7,7 +7,7 @@ Epoch:          1
 Summary:        Maven repository builder
 Group:		Development/Java
 License:        ASL 2.0
-URL:            http://maven.apache.org/shared/maven-repository-builder/
+URL:            https://maven.apache.org/shared/maven-repository-builder/
 
 Source0:        http://repo1.maven.org/maven2/org/apache/maven/shared/maven-repository-builder/1.0/maven-repository-builder-%{version}-source-release.zip
 # ASL mandates that the licence file be included in redistributed source
